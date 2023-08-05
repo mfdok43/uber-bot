@@ -1,5 +1,5 @@
 export abstract class TGCommand {
-    constructor(public bot: any) {}
+	constructor(public bot: any) {}
 
-    abstract init (): void
+	abstract init(): void;
 }

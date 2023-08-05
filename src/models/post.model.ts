@@ -1,13 +1,13 @@
 import { Db } from '../connections/db.connection';
 import { DataTypes, ModelCtor, Model, Sequelize } from 'sequelize';
 
-export class ChannelModel {
+export class PostModel {
 	db: Sequelize;
-	channelModel: ModelCtor<Model<any, any>>;
+	postModel: ModelCtor<Model<any, any>>;
 	constructor() {
 		this.db = new Db().sequelize;
-		this.channelModel = this.db.define(
-			'channel',
+		this.postModel = this.db.define(
+			'post',
 			{
 				id: {
 					type: DataTypes.UUID,
@@ -16,33 +16,32 @@ export class ChannelModel {
 					unique: true,
 					allowNull: false,
 				},
-				telegramId: {
+				name: {
 					type: DataTypes.STRING,
 					defaultValue: false,
 					allowNull: false,
 				},
-				channelTitle: {
+				text: {
+					type: DataTypes.STRING,
+					defaultValue: false,
+					allowNull: false,
+				},
+				photo: {
 					type: DataTypes.STRING,
 					defaultValue: false,
 					allowNull: true,
 				},
-				channelName: {
+				seller: {
 					type: DataTypes.STRING,
 					defaultValue: false,
 					allowNull: true,
 				},
-				vip: {
-					type: DataTypes.BOOLEAN,
+				timer: {
+					type: DataTypes.STRING,
 					defaultValue: false,
-					allowNull: true,
-				},
-				isAdmin: {
-					type: DataTypes.BOOLEAN,
-					defaultValue: false,
-					allowNull: true,
+					allowNull: false,
 				},
 			},
-
 			{
 				timestamps: true,
 				updatedAt: false,

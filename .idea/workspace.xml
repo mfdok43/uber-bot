@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32d2734d-91f3-488f-a9e2-39a3b8b93d6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/sequelize/post-model.sequelize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logger/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/tg-command/interval-posting.command.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/post.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/password/password-model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/password/password-model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sequelize/channel-model.sequelize.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/sequelize/channel-model.sequelize.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sequelize/user-model.sequelize.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/sequelize/user-model.sequelize.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/config.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/config.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/config.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connections/db.connection.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/connections/db.connection.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/fs-operations/fs-operations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/fs-operations/fs-operations.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/any-message.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/any-message.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/back-button.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/back-button.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/channels-list.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/channels-list.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/create-post.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/create-post.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/get-updates.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/get-updates.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/markup.buttons.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/markup.buttons.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/send-password.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/send-password.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/set-admin.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/set-admin.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/start.command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/start.command.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/middleware/tg-command/tg-command.class.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/middleware/tg-command/tg-command.class.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/channel.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/channel.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R6DuirM8ZkOwSIwqBnNUjGeRZy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/JS/uber43_bot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "F:\\JS\\uber43_bot\\node_modules\\prettier",
+    "ts.external.directory.path": "F:\\JS\\uber43_bot\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JS\uber43_bot\src\middleware\tg-command" />
+      <recent name="F:\JS\uber43_bot\src\middleware\fs-operation" />
+      <recent name="F:\JS\uber43_bot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JS\uber43_bot\src\common" />
+      <recent name="F:\JS\uber43_bot\src\middleware\tg-command" />
+      <recent name="F:\JS\uber43_bot\src\common\Password" />
+      <recent name="F:\JS\uber43_bot\src\middleware" />
+      <recent name="F:\JS\uber43_bot\src\connections" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d2734d-91f3-488f-a9e2-39a3b8b93d6e" name="Changes" comment="" />
+      <created>1686561861982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686561861982</updated>
+      <workItem from="1686561863086" duration="19563000" />
+      <workItem from="1686601162266" duration="28818000" />
+      <workItem from="1686689264469" duration="875000" />
+      <workItem from="1686720119003" duration="6419000" />
+      <workItem from="1686727007106" duration="20702000" />
+      <workItem from="1686822551625" duration="10259000" />
+      <workItem from="1686848760688" duration="285000" />
+      <workItem from="1686849088505" duration="1000" />
+      <workItem from="1686859427124" duration="4057000" />
+      <workItem from="1687002539412" duration="10821000" />
+      <workItem from="1687034218528" duration="8000" />
+      <workItem from="1687080761308" duration="20598000" />
+      <workItem from="1687117990725" duration="8550000" />
+      <workItem from="1687160980434" duration="20056000" />
+      <workItem from="1687209499718" duration="601000" />
+      <workItem from="1687251131366" duration="11788000" />
+      <workItem from="1687680106181" duration="10371000" />
+      <workItem from="1687784370047" duration="2341000" />
+      <workItem from="1687865810970" duration="3806000" />
+      <workItem from="1688033290056" duration="622000" />
+      <workItem from="1688306346823" duration="16521000" />
+      <workItem from="1688371168599" duration="11278000" />
+      <workItem from="1688385680814" duration="3724000" />
+      <workItem from="1688389547513" duration="9988000" />
+      <workItem from="1688460931988" duration="4214000" />
+      <workItem from="1688545665591" duration="4996000" />
+      <workItem from="1688903048900" duration="1978000" />
+      <workItem from="1688909870581" duration="15554000" />
+      <workItem from="1688938753616" duration="2043000" />
+      <workItem from="1688941867408" duration="352000" />
+      <workItem from="1688942472648" duration="18000" />
+      <workItem from="1688966566866" duration="40691000" />
+      <workItem from="1689079548540" duration="3620000" />
+      <workItem from="1689087118314" duration="2016000" />
+      <workItem from="1689152211635" duration="8403000" />
+      <workItem from="1689165894338" duration="8850000" />
+      <workItem from="1689421970461" duration="11393000" />
+      <workItem from="1689501113632" duration="16088000" />
+      <workItem from="1689597338967" duration="2931000" />
+      <workItem from="1689698135875" duration="14000" />
+      <workItem from="1689756414498" duration="6866000" />
+      <workItem from="1690097780442" duration="18645000" />
+      <workItem from="1690151270206" duration="673000" />
+      <workItem from="1690177816221" duration="8410000" />
+      <workItem from="1690197673884" duration="4027000" />
+      <workItem from="1690209116833" duration="627000" />
+      <workItem from="1690271318141" duration="1168000" />
+      <workItem from="1691234710732" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app.ts</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

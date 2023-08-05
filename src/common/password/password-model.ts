@@ -1,21 +1,19 @@
-import generator from "generate-password";
-import {FsOperations} from "../../middleware/fs-operations/fs-operations";
+import generator from 'generate-password';
+import { FsOperations } from '../../middleware/fs-operations/fs-operations';
 
 export class SavePassword {
-    private generatePassword: any
-    private fs: any
+	private generatePassword: any;
+	private fs: any;
 
-    constructor() {
-        this.fs = new FsOperations()
-        this.generatePassword = generator
-    }
+	constructor() {
+		this.fs = new FsOperations();
+		this.generatePassword = generator;
+	}
 
-
-    init () {
-       return this.generatePassword.generate({
-            length: 10,
-            numbers: true
-        });
-
-    }
+	init() {
+		return this.generatePassword.generate({
+			length: 10,
+			numbers: true,
+		});
+	}
 }
